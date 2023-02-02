@@ -42,8 +42,8 @@ main{
     display: flex;
     width: 20px;
     position: fixed;
-    top: 658px;
-    left: 190px;
+    top: 725px;
+    left: 196px;
 }
 
 .botones{
@@ -181,9 +181,9 @@ main{
         display: block;
         width: 60%;
         position: absolute;
-        height: 40vh;
+        height: 35vh;
         margin-right: 100px;
-        top: 800px;
+        top: 850px;
         background-image: none;
         margin-left: 20px;
     }
